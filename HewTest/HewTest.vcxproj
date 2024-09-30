@@ -130,6 +130,7 @@
     <ClCompile Include="EnemyMove.cpp" />
     <ClCompile Include="Guild.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Menu.cpp" />
     <ClCompile Include="PlayerMove.cpp" />
   </ItemGroup>
   <ItemGroup>
